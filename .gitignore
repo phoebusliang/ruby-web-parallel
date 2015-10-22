@@ -1,0 +1,6 @@
+.idea
+Gemfile.lock
+*.html
+case
+doc
+.yardoc
