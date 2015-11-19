@@ -1,4 +1,4 @@
 Feature: Test Baidu
 
   Scenario: Test Baidu
-    Given Open "http://www.baidu.com"
+    Given Open "http://www.sina.com"
